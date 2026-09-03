@@ -1,0 +1,6 @@
+{
+    "scope": "x_899160_drift",
+    "scopeId": "7a32f13b0de743f381f3d4b291f6de55",
+    "name": "SN Configuration Management Drift",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
